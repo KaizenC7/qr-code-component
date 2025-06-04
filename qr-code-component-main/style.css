@@ -1,0 +1,51 @@
+    .mainDiv {  display: flex; 
+                justify-content: center; 
+                align-items: center; 
+                width: 100vw; 
+                height: 100vh; 
+                background-color:hsl(212, 45%, 89%);}    
+
+    .qrcomp {   display:flex; 
+                justify-content: center; 
+                align-items: center; }
+
+    .image {    width: 90%; 
+                height: auto;
+                border-radius: 5%; 
+                margin: 10px;}
+
+    .likhai1 {  font-size: 15px;
+                text-align: center;
+                font-weight: 700;
+                margin: 12px;
+                margin-left: 15px;
+                margin-right: 15px;
+                font-family: sans-serif;
+                color:  hsl(218, 44%, 22%);
+                box-sizing: border-box;
+                word-wrap: break-word;
+                overflow-wrap: break-word;   }
+
+    .likhai2 {  font-size: 11px;
+                text-align: center;
+                font-weight: 300;
+                margin: 12px;
+                margin-left: 20px;
+                margin-right: 20px;
+                font-family: sans-serif;
+                color: hsl(216, 15%, 48%);
+                box-sizing: border-box;
+                word-wrap: break-word;
+                overflow-wrap: break-word;}
+
+    .attribution {  font-size: 11px;
+                    text-align: center; 
+                    background-color:hsl(212, 45%, 89%);}
+
+    .attribution a { color: hsl(228, 45%, 44%); }
+
+    .beech {    background-color: white; 
+                width: 17%; 
+                height: 55%; 
+                border-radius: 5%;
+                box-shadow: 8px 8px 16px rgba(0, 0, 0, 0.1);}
